@@ -14,7 +14,7 @@ public class MailUser {
 	public void mailUser(String text,String emailId){
 		
 		final String username = "cmpe283team10@gmail.com";
-		final String password = "TeamTen10";
+		final String password = "@@@@@@@@@@";
  
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");

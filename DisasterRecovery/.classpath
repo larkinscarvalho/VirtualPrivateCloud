@@ -27,9 +27,9 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/RestServiceVoting/build/libs/mongo-java-driver-2.12.3-javadoc.jar"/>
 	<classpathentry kind="lib" path="/RestServiceVoting/build/libs/mongo-java-driver-2.12.3.jar"/>
-	<classpathentry kind="lib" path="/home/arpit/Documents/CMPE283/vijava55b20130927/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="/home/arpit/Documents/CMPE283/vijava55b20130927/vijava55b20130927.jar"/>
-	<classpathentry exported="true" kind="lib" path="/home/arpit/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/c2495d6c08c742743366f50e25ad76f5dfcd9f75/spring-boot-1.2.2.RELEASE.jar" sourcepath="/home/arpit/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/191eecea5109388227dbf1c1532ec02bb5e54ba3/spring-boot-1.2.2.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="/home/arpit/Documents/CMPE283/Project-DisasterRecovery/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="/home/larkins/Documents/CMPE283/vijava55b20130927/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/larkins/Documents/CMPE283/vijava55b20130927/vijava55b20130927.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/larkins/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/c2495d6c08c742743366f50e25ad76f5dfcd9f75/spring-boot-1.2.2.RELEASE.jar" sourcepath="/home/arpit/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/191eecea5109388227dbf1c1532ec02bb5e54ba3/spring-boot-1.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/larkins/Documents/CMPE283/Project-DisasterRecovery/javamail-1.4.7/mail.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

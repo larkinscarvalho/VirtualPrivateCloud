@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/RestServiceVoting/build/libs/mongo-java-driver-2.12.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/RestServiceVoting/build/libs/mongo-java-driver-2.12.3.jar"/>
+	<classpathentry kind="lib" path="/home/arpit/Documents/CMPE283/vijava55b20130927/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/arpit/Documents/CMPE283/vijava55b20130927/vijava55b20130927.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/arpit/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/c2495d6c08c742743366f50e25ad76f5dfcd9f75/spring-boot-1.2.2.RELEASE.jar" sourcepath="/home/arpit/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/191eecea5109388227dbf1c1532ec02bb5e54ba3/spring-boot-1.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/arpit/Documents/CMPE283/Project-DisasterRecovery/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
